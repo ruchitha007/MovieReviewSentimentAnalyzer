@@ -44,6 +44,13 @@ Three models were developed and evaluated:
 - **Stopword Removal**: Improves generalization by removing common, non-informative words
 
 ---
+## 🖼️ Training Curves
+
+The following plot shows the improvement in **training log-likelihood** and **dev accuracy** over 30 epochs:
+
+<p align="center">
+  <img src="media/training_loglikelihood_dev_accuracy.png" alt="Training Objective and Dev Accuracy" width="700"/>
+</p>
 
 ## 📈 Findings & Observations
 
